@@ -12,4 +12,4 @@ https://youtu.be/V7mhDTT18Hc
 The amplifier is very loud and class D is working very stable under full load. The output is balanced due to high power and better-quality LC filter. Never use linear power supplies with class D amplifier. The class D amplifiers works on a single power supply of 0-24 and the output is just a square wave filtered to get the sound. In real the high frequency operation of these amplifier causes some serious problems if you are a music lover. In that case you can use class A and AB amplifiers. By the way, Class D has some great lead in terms of efficiency (90%) and low heat.
  
 DF robot the product-based company which deals in electronics like sensors, microcontroller and robotics. They own a beetle series of microcontrollers having a very small form factor in the same performance. You can see the more detailed on DF microcontroller from here. Buy 502C Hi-Fi amplifier from here.
- 
+ https://www.dfrobot.com/product-2208.html
