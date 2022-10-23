@@ -1,6 +1,6 @@
 # Review-to-502C-50-50W-Class-D-ampllifier
 This is Wuzhi Hi-Fi class D amplifier which can output a maximum of 100watts. This works on a voltage under 24volts and has a stable output.
-Get more info from here:
+Get more info from here: https://www.instructables.com/Review-to-502C-5050W-Class-D-Ampllifier/
  
 Operating a class D amplifier is really easy and on the other hand it is very difficult to DIY one, because the power supply section and the PWM section is really complicated. Any different value component can produce hum and destroy the overall performance. I am working on the existing very stable class D amplifiers designs. But in order to explore more about the amplifiers I got my hands on Wuzhi 50+50w Hi-Fi amplifier kit. Which comes with a TPA3116 amplifier IC from DfRobot. The kit is listed on Dfrobot and named as 502C Hi-Fi amplifier.
  
